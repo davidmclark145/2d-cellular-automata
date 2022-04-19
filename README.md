@@ -18,7 +18,7 @@ I have not come back to update the various bits of it that I think could have be
 4. Click Generate to start cycle
 
 ### Answer to question: What is Generation 20?
-Note: The below seed data is also featured in datasets.md
+Note: The below seed data is also featured in 'datasets.md'.
 
 Given seed data for generation 1:  
 0 0 0 0 0 0 0 0 0 0  
